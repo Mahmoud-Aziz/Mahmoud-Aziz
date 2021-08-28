@@ -18,7 +18,7 @@ If you have something interesting to share with me let's chat throught one of my
 
 [![linkedin badge](https://img.shields.io/badge/MahmoudAziz-FAC151.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/mahmoud-mohamed-aziz/)
 
-[![email badge](https://img.shields.io/badge/mahmoudmohammedaziz@gmail.com-FAC151.svg?logo=google&logoWidth=20)](mahmoudmohammedaziz-@gmail.com)
+[![email badge](https://img.shields.io/badge/mahmoudmohammedaziz@gmail.com-FAC151.svg?logo=google&logoWidth=20)](mahmoudmohammedaziz@gmail.com)
 
 ##
 - 🔭 I’m currently part of [LintSchool](https://www.lintschool.com/ios-trackv)
