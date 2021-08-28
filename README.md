@@ -10,7 +10,7 @@
 
 ### Hey 👋
 
-I'am Mahmoud Aziz, I'am iOS Engineer and Interested in Software technologies, Specifically iOS mobile app development using Swift programming language. I've been learning and developing my skills for a while now and I'am looking for a full-time job right now.
+I'am Mahmoud Aziz, I'am an iOS Engineer and I've been learning and developing my skills for a while and still striving to learn more and more :star_struck:  I'am looking for a full-time job right now.
 
 If you have something interesting to share with me let's chat throught one of my connection channels. :call_me_hand:
 
