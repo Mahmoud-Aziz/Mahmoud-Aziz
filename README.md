@@ -29,7 +29,7 @@ If you have something interesting to share with me let's chat throught one of my
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Aziz&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Aziz&show_icons=true&theme=gruvbox&hide_rank=true)
 
 
 
