@@ -20,6 +20,10 @@ If you have something interesting to share with me let's chat throught one of my
 
 [![email badge](https://img.shields.io/badge/mahmoudmohammedaziz@gmail.com-FAC151.svg?logo=google&logoWidth=20)](#)
 
+## :bookmark_tabs: Check my resume 
+
+[My Resume](https://drive.google.com/file/d/1J7P0DpAaGkU4MIVy_sE3kDYm8mbTWdVP/view?usp=sharing)
+
 ##
 - 🔭 I’m currently part of [LintSchool](https://www.lintschool.com/ios-trackv)
  iOS advanced course and we are working on very interesting stuff which will be revealed soon.
