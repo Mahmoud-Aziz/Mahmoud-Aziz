@@ -22,7 +22,7 @@ If you have something interesting to share with me let's chat throught one of my
 
 ## :bookmark_tabs: Check my resume 
 
-[My Resume](https://drive.google.com/file/d/1J7P0DpAaGkU4MIVy_sE3kDYm8mbTWdVP/view?usp=sharing)
+[My Resume](https://drive.google.com/file/d/1j9yWDiIL_WE8ykdXk_8SEnyE38opZd_S/view?usp=sharing)
 
 ##
 - 🔭 I’m currently part of [LintSchool](https://www.lintschool.com/ios-track)
