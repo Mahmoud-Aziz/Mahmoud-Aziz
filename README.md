@@ -25,9 +25,8 @@ If you have something interesting to share with me let's chat throught one of my
 [My Resume](https://drive.google.com/file/d/1j9yWDiIL_WE8ykdXk_8SEnyE38opZd_S/view?usp=sharing)
 
 ##
-- 🔭 I’m currently part of [LintSchool](https://www.lintschool.com/ios-track)
- iOS advanced course and we are working on very interesting stuff which will be revealed soon.
-- 🌱 I’m currently learning about CI/CD, Some of Swift's advanced topics. 
+- 🔭 I’m currently part of [LintSchool](https://www.lintschool.com/ios-track) community.
+- 🌱 I’m currently learning about The composable architecture (TCA). 
 - 👯 I’m looking to collaborate on freelance projects.
 - 😄 Hoppies: Cinephile, Reading, Discovering new music, *Don't hesitate sharing your spotify profile with me ;)*
 
