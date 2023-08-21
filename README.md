@@ -22,14 +22,9 @@ If you have something interesting to share with me let's chat throught one of my
 
 ## :bookmark_tabs: Check my resume 
 
-[My Resume](https://drive.google.com/file/d/1j9yWDiIL_WE8ykdXk_8SEnyE38opZd_S/view?usp=sharing)
+[My Resume](https://drive.google.com/file/d/1woWZOCiceuDvBGIrcsQ4Wi-U_zSNIO7I/view?usp=sharing)
 
 ##
-- 🔭 I’m currently part of [LintSchool](https://www.lintschool.com/ios-track) community.
-- 🌱 I’m currently learning about The composable architecture (TCA). 
-- 👯 I’m looking to collaborate on freelance projects.
-- 😄 Hoppies: Cinephile, Reading, Discovering new music, *Don't hesitate sharing your spotify profile with me ;)*
-
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Aziz&show_icons=true&theme=gruvbox&hide_rank=true)
@@ -39,7 +34,7 @@ If you have something interesting to share with me let's chat throught one of my
 
 
 
- 
+
 <!--
 **Mahmoud-Aziz/Mahmoud-Aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
